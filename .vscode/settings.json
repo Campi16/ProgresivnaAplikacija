@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.https": {
+  "enable": true, //set it true to enable the feature.
+  "cert": "C:\\Users\\matej\\Desktop\\front-end\\JS\\progresivnaAplikacija\\id_ed25519", //full path of the certificate
+  "key": "C:\\Users\\matej\\Desktop\\front-end\\JS\\progresivnaAplikacija\\id_ed25519.pub", //full path of the private key
+  "passphrase": ""
+  }
+}
